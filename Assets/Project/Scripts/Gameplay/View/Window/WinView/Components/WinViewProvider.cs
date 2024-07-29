@@ -1,0 +1,1 @@
+public class WinViewProvider : SimpleWindowViewProvider<WinViewComponent> { }

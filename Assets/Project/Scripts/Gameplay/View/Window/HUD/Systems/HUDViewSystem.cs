@@ -1,0 +1,1 @@
+public class HUDViewSystem : SimpleWindowViewSystem<HUDViewComponent, WinEvent> { }
